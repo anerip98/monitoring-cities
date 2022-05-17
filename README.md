@@ -1,6 +1,6 @@
 # Monitoring Cities
 
-This repository contains presentations related to monitoring and analysing cities that introduce analyses of different cities on topics like:
+This repository contains google earth engine code presentations related to monitoring and analysing cities that introduce analyses of different cities on topics like:
 
 * Air pollution (NO2, CO, Aerosol)
 * Solar potential (Calculated using building footprint and plot-level land use data) 
