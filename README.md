@@ -1,4 +1,5 @@
-# monitoring-cities
+# Monitoring Cities
+
 This repository contains presentations related to monitoring and analysing cities that introduce analyses of different cities on topics like:
 
 * Air pollution (NO2, CO, Aerosol)
